@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: jakubpr
- * Date: 08.02.18
- * Time: 18:55
- */
 
 if (!empty($_POST['m']) && !empty($_POST['p']) && !empty($_POST['t1']))
 {
